@@ -4,6 +4,8 @@
 
 AutoStereo is a tool to convert a 2D image into an autostereogram (left and right eye's perspective) using a depth map.
 
+![AutoStereoGram](Example/AutoStereo.png "AutoStereoGram")
+
 ## Building
 
 You need the [.NET 6 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) to build this project, and [.NET 6 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) to run it.
@@ -53,6 +55,7 @@ This will avoid black spots where there is missing information due to the stereo
 ### Result
 
 The stereo image is written to the output file.
+See an [example](./example/EXAMPLE.md).
 
 ### Viewing
 
