@@ -4,7 +4,7 @@
 
 AutoStereo is a tool to convert a 2D image into an autostereogram (left and right eye's perspective) using a depth map.
 
-![AutoStereoGram](Example/AutoStereo.png "AutoStereoGram")
+![AutoStereoGram](https://github.com/Ozzah/AutoStereo/blob/main/example/AutoStereo.png?raw=true "AutoStereoGram")
 
 ## Building
 
