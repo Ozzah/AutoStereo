@@ -4,7 +4,11 @@
 
 AutoStereo is a tool to convert a 2D image into an autostereogram (left and right eye's perspective) using a depth map.
 
-![AutoStereoGram](https://github.com/Ozzah/AutoStereo/blob/main/example/AutoStereo.png?raw=true "AutoStereoGram")
+![Source](https://github.com/Ozzah/AutoStereo/blob/main/example/Source.png?raw=true "Source") + ![Depth](https://github.com/Ozzah/AutoStereo/blob/main/example/Depth.png?raw=true "Depth") = ![AutoStereoGram](https://github.com/Ozzah/AutoStereo/blob/main/example/AutoStereo.png?raw=true "AutoStereoGram")
+
+![Animation](https://github.com/Ozzah/AutoStereo/blob/main/example/Animation.gif?raw=true "Animation")
+
+[Sample image source](https://www.pexels.com/photo/brown-wooden-dock-on-body-of-water-10594420/) 
 
 ## Building
 

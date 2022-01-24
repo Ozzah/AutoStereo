@@ -2,7 +2,7 @@
 
 ## Command Line
 
-Run `./AutoStereo -i Source.png -d Depth.png -o AutoStereo.png --FocusPoint 160 --StereoSeparation 12`
+Run `./AutoStereo -i Source.png -d Depth.png -o AutoStereo.png --FocusPoint 160 --StereoSeparation 8`
 
 ## Source Images
 
